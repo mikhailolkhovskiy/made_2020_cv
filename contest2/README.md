@@ -6,3 +6,5 @@
   - слил вместе и использовал для тренеровки модель из официального baseline
   - использовал Resnet34 вместо Resnet18
   - на public не получилось улучшить скор, на private оказался чуть лучше чем baseline
+
+![Submissions](submissions.png)
